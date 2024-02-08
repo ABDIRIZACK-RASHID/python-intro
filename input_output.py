@@ -1,0 +1,6 @@
+num1 = int(input("Enter number:"))
+num2 = int(input("enter another number"))
+print("the sum of",num1,"and",num2,"is",(num1+num2))
+print("the difference of",num1,"and",num2,"is",(num1-num2))
+print(f"the product of {num2} and {num1} is {num1*num2}")
+print(f"the product of {num1} and {num2} is {num1*num2}")
